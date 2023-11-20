@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\ProductService\ProductService\bin\ProductService.dll.config
+C:\Users\DELL\source\repos\ProductService\ProductService\bin\ProductService.dll
+C:\Users\DELL\source\repos\ProductService\ProductService\bin\ProductService.pdb
+C:\Users\DELL\source\repos\ProductService\ProductService\obj\Debug\ProductService.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ProductService\ProductService\obj\Debug\ProductService.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ProductService\ProductService\obj\Debug\ProductService.dll
+C:\Users\DELL\source\repos\ProductService\ProductService\obj\Debug\ProductService.pdb
