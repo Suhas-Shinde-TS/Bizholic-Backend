@@ -194,7 +194,7 @@ namespace Product_Service
                     return null;
                 }
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 return null;
 
